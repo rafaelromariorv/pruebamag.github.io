@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>centrar</title>
+	<link rel="stylesheet" type="text/css" href="estilocss3-2.css">
+</head>
+<body>
+<p id="titulo">Xue learn</p>
+</body>
+</html>
