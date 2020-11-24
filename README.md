@@ -1,14 +1,48 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1>REGLAS DE CODIFICADOR</h1>
-    <p class="justify"> Favor leer antes de comenzar a codificar.</p>
-    <h2>Codigo Python</h2>
-    <h2>Codigo JS</h2>
-    <h2>Codigo SQL</h2>
-</body>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="jumbotron jumbotron-fluid bg-primary text-white">
+        <div class="container">
+          <h1 class="display-3 text-center">REGLAS DE CODIFICACIÓN – “CLEAN CODE”</h1>
+          <p class="lead text-justify">
+            Favor leer antes de comenzar a codificar. <br>
+            A continuación se mostrara las reglas de escritura que manejaremos en los diferentes lenguajes según sus estándares y sus recomendaciones.
+            </p>
+        </div>
+      </div>
+    <section class="content">
+        <div class="container-fluid">
+            <div class="card">
+                <div class="card-header display-4">
+                  Python
+                </div>
+                <div class="card-body">
+                  <blockquote class="blockquote mb-0">
+                    <p>
+                        <samp class="font-weight-bold">Guía:</samp>  https://www.python.org/dev/peps/pep-0008/
+                    </p>
+                    <p>
+                        <samp class="font-weight-bold">Sintaxis:</samp> 
+                        <ul class="list-group list-group-flush">
+                            <li class="list-group-item">variables en minúscula: nombre y nombre_compuesto. </li>
+                            <li class="list-group-item">Métodos: nombre y nombreCompuesto. </li>
+                            <li class="list-group-item">Clases: Nombre y NombreCompuesto.</li>
+                            <li class="list-group-item">Aplicaciones: nombre</li>
+                            <li class="list-group-item">Entornovirtual: idicprojectenv (nombre indiscutible).</li>
+                          </ul>
+                    </p>
+                    <footer class="blockquote-footer">Someone famous in <cite title="Source Title">Source Title</cite></footer>
+                  </blockquote>
+                </div>
+              </div>
+      </section>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </body>
 </html>
