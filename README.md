@@ -96,7 +96,7 @@ nombre.py y nombre_archivo.py
 - En ingles.
 - Solo donde sea necesario y ser lo más claros posibles.
 - La sintaxis depende del lenguaje; ejemplos de python:
-- 
+  `git clone https://github.com/twbs/bootstrap.git`
 - 
 - 
 - 
