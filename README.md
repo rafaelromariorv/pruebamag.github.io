@@ -37,6 +37,13 @@
 - Dos saltos de línea entre clases y métodos
 - Un salto de línea de los returns de los métodos.
 
+### Recomendaciones
+- Intentar que las líneas de código no superen 72 caracteres (por cuestión de Zen de python – legibilidad) en caso de ser así hay dos opciones: Salto de línea controlado con \ o Intentar manejar variables que reduzcan la línea en cuestión.
+- Manejar el mismo archivo de .gitignore por seguridad ya que ha sido modificado especialmente para este proyecto.
+- Algunas consultas especiales de este código no funcionan en SQLite; las que contienen distinct().
+- El archivo de contraseñas se trabajan en un secret.json
+- No hacer migraciones sin estar probadas previamente.
+
 
 ## Table of contents
 
