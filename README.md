@@ -44,6 +44,69 @@
 - No hacer migraciones sin estar probadas previamente.
 
 
+## Código JS
+### Sintaxis
+- variables en minúscula: nombre y nombre_compuesto.
+- Métodos: nombre y nombreCompuesto.
+- Clases: Nombre y NombreCompuesto. 
+- Aplicaciones: nombre
+- Entornovirtual: idicprojectenv (nombre indiscutible).
+- Dos saltos de línea entre clases y métodos
+- Un salto de línea de los returns de los métodos.
+
+### Recomendaciones
+- Por lo general JS torna a ser un código largo por cuestión de sus palabras reservadas de sistema y su sintaxis como tal, pero debemos intentar trabajarlo como python, claro esta sí es posible en caso de no pues trabajarlo como permita JS.
+- Cuando se trabaja con urls Django con sintaxis como {%recoder:url_ejemplo%} estas solo funcionan en el mismos archivo html dentro de un <script>, debido a que el ciclo de vida se lee al mismo tiempo que el html y la data que nos genera el Django, de no ser así ese tipo de url no va a funcionar.
+
+
+## Código SQL
+### Sintaxis
+- Tablas: Nombre y NombreCompuesto.
+- Atributos: Nombre y Nombre_Compuesto. Nota de acá para adelante nombre y nombre_Compuesto.
+
+### Recomendaciones
+- En el models.py de Django tener en cuenta las reglas de sintaxis de SQL en los campos: db_columm y db_table.
+- No usar entidades recursivas.
+
+
+## Código CSS
+### Sintaxis
+- Variables en minúscula: nombre y nombre_compuesto.
+- Clases: Nombre y NombreCompuesto.
+
+### Recomendaciones
+- Intentar que las líneas de código no superen 80 caracteres.
+- Se codifica en SASS con llaves {}.
+
+
+# General
+
+### Nombre de Archivos 
+nombre.py y nombre_archivo.py
+
+### Recomendaciones
+- Nunca hacer push a la rama master si no se tiene seguridad.
+- Trabajar en las ramas que se les ha asignado.
+- Comentar siempre cada método o clase con explicación de funcionamiento y de sus variables de entradas y su salidas.
+- En el momento de importaciones de clases, métodos y constantes, favor solo importar lo necesario.
+- En el momento de programar, primero hacer que funcione y después con el tiempo re-factorizar.
+- En el momento de re-factorizar intentar hacer que se trabaje por clases con el fin de reducir código y poder heredarlo en otra funcionalidad.
+
+### ¿Como Comentar Código?
+- En ingles.
+- Solo donde sea necesario y ser lo más claros posibles.
+- La sintaxis depende del lenguaje; ejemplos de python:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
 ## Table of contents
 
 - [Quick start](#quick-start)
