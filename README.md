@@ -4,10 +4,12 @@
   </a>
 </p>
 
-<h3 align="center">Bootstrap</h3>
+<h3 align="center">REGLAS DE CODIFICACIÓN – “CLEAN CODE”</h3>
 
 <p align="center">
-  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
+  Favor leer antes de comenzar a codificar.
+  <br>
+  A continuación se mostrara las reglas de escritura que manejaremos en los diferentes lenguajes según sus estándares y sus recomendaciones.
   <br>
   <a href="https://v5.getbootstrap.com/docs/5.0/"><strong>Explore Bootstrap docs »</strong></a>
   <br>
