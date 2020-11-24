@@ -11,16 +11,15 @@
   <br>
   A continuación se mostrara las reglas de escritura que manejaremos en los diferentes lenguajes según sus estándares y sus recomendaciones.
   <br>
-  <a href="https://v5.getbootstrap.com/docs/5.0/"><strong>Explore Bootstrap docs »</strong></a>
+  <a href="#"><strong>IDIC»</strong></a>
   <br>
   <br>
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=bug_report.md">Report bug</a>
+  <a href="https://estoesunaprueba.xyz/">Servidor de Pruebas</a>
   ·
-  <a href="https://github.com/twbs/bootstrap/issues/new?template=feature_request.md">Request feature</a>
+  <a href="https://infoidic.com/">Servidor de Producci&oacute;n</a>
   ·
-  <a href="https://themes.getbootstrap.com/">Themes</a>
+  <a href="#">Correo</a>
   ·
-  <a href="https://blog.getbootstrap.com/">Blog</a>
 </p>
 
 # Nota: Todo lo que se codea debe estar en ingles.
