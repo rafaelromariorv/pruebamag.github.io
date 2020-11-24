@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://v5.getbootstrap.com/">
-    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
+    <img src="https://photos.google.com/photo/AF1QipNBDud1qpIMb0FSDZJKsZOsyb-US1IjIt8Vc35t" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
 
@@ -11,7 +11,7 @@
   <br>
   A continuación se mostrara las reglas de escritura que manejaremos en los diferentes lenguajes según sus estándares y sus recomendaciones.
   <br>
-  <a href="#"><strong>IDIC»</strong></a>
+  <a href="https://idic.fi/"><strong>IDIC»</strong></a>
   <br>
   <br>
   <a href="https://estoesunaprueba.xyz/">Servidor de Pruebas</a>
