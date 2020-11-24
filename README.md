@@ -1,11 +1,11 @@
-<p align="center">
+<div class="bg-primary">
+  <p align="center">
   <a href="https://v5.getbootstrap.com/">
-    <img src="https://photos.google.com/photo/AF1QipNBDud1qpIMb0FSDZJKsZOsyb-US1IjIt8Vc35t" alt="Bootstrap logo" width="200" height="165">
+    <img src="https://idic.fi/wp-content/uploads/2020/08/Idic_Horizontal-Claro-150x50-1.png" alt="Idic logo" width="200">
   </a>
 </p>
-
+</div> 
 <h3 align="center">REGLAS DE CODIFICACIÓN – “CLEAN CODE”</h3>
-
 <p align="center">
   Favor leer antes de comenzar a codificar.
   <br>
