@@ -110,7 +110,7 @@ Sí es varios reglones usar:
 - En Clases o métodos:
 ```text
 """
-	Reason: Convert a blank value to null, otherwise leave it 	the same.
+	Reason: Convert a blank value to null, otherwise leave it the same.
 	Method: None, Post, Get
 	Input: string(pvar1, pvar2) or string(pvar1), dict(pvar2).
 	Return: dictionary or string, etc.
